@@ -1,0 +1,78 @@
+:root {
+    --first-color: #bd4ab9;
+    --second-color: #35924b;
+    --blur-background: rgba(231, 225, 225, 0.464);
+  }
+
+  .custom-outline-secondary-pink {
+    color: var(--first-color); /* Text color */
+    border-color: var(--first-color); /* Border color */
+    border-width: 2pt;
+  }
+  .custom-outline-secondary-pink:hover {
+    background-color: var(--first-color); /* Background color on hover */
+    color:white;
+    /*color: #7a4abd; /* Text color on hover */
+  }
+  .custom-outline-secondary-green {
+    color: var(--second-color); /* Text color */
+    border-color: var(--second-color); /* Border color */
+    border-width: 2pt;
+  }
+  .custom-outline-secondary-green:hover {
+    background-color: var(--second-color); /* Background color on hover */
+    color:white;
+    /*color: #7a4abd; /* Text color on hover */
+  }
+  .song_buttons {
+    font-weight: bold;
+    width: 200pt;
+  }
+
+  .button-div {
+    width: 300pt;
+    backdrop-filter: blur(5px);
+    background-color: var(--blur-background);
+    margin:auto
+  }
+
+  .wicked-header {
+    width: 100%;
+    height: 100%;
+    font-weight: 900;
+    font-size: 12mm;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    backdrop-filter: blur(5px);
+    background-color: var(--blur-background);
+    margin: auto;
+    border: solid;
+    border-radius: 10%;
+    border-width: 8pt;
+    border-color: transparent;
+  }
+
+  .bg-custom { 
+    background-image: url('wicked_background.webp'); 
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh;
+  }
+
+  .container{
+    width: 2000pt;
+    height: 80pt;
+    position: relative;
+    margin:auto;
+  }
+
+  .stack-top{
+      z-index: 9;
+      margin: 20px;
+  }
+
+  .glitter-border {
+    width: 100%;
+    height: 100%;            
+    position: absolute;
+    background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MxZ3hzZG5oamlpOWFrOHpocWFiNHg1a2tua2dnMWF0YnI4cXpqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10rtoKqcDukJgc/giphy.gif");
+  }
