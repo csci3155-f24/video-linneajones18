@@ -4,9 +4,9 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+# Extra Credit Project: Wicked Website Using Bootstrap
 
-## Description
+## Descrip
 
 TOD: Replace this with at least a few paragraphs describing your project.
 ## Repository Organization
