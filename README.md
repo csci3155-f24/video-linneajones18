@@ -21,6 +21,6 @@ TODO: Replace with building and testing instructions. Please minimize the number
 
 TODO: Update the following links and remove this line.
 
-- YouTube: https://youtu.be/TODO.
+- YouTube: https://youtu.be/l0UmntQUpPE?si=q3QJM3UQfrJPJ3as
 - Script: [Script.pdf](Script.pdf).
 - Recording: [PPL_ExtraCredit.mp4](PPL_ExtraCredit.mp4).
