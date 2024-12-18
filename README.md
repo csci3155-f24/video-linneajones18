@@ -6,12 +6,35 @@ See [instructions.md](instructions.md) for submission instructions.
 
 # Extra Credit Project: Wicked Website Using Bootstrap
 
-## Descrip
+## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
+Our project focused on creating a visually appealing and interactive webpage inspired by the soundtrack of the upcoming Wicked movie. Using the Bootstrap framework, we designed a site where each song from the soundtrack is displayed as a button. When clicked, these buttons take users directly to the corresponding song on Spotify. The project demonstrated how modern web frameworks like Bootstrap, combined with custom CSS, can be used to implement programming concepts such as "code as data" in a practical and creative way.
+
+We started by integrating Bootstrap into our HTML file, allowing us to use its pre-designed components. Bootstrap’s button classes served as the foundation for the interactive song links, which were further customized using CSS. We created custom styles with CSS variables to dynamically manage the design of the buttons and hover effects across the page. These reusable variables represent the "code as data" principle, allowing changes to propagate consistently throughout the project. Alongside the buttons, we added a glittery, eye-catching header to tie the visual theme to the magical tone of Wicked. Our collaboration on this project not only enhanced our understanding of reusable and dynamic code structures but also demonstrated how Bootstrap's flexibility can be combined with personalized styling to create a functional and beautiful webpage.
+
 ## Repository Organization
 
 TODO: Replace this with a description of the organization of your repository.
+
+```
+.
+├── README.md (this file)
+├── inductive-data-types-lab.ipynb        (the lab handout as a Jupyter Notebook)
+└── src
+    ├── main
+    │   └── scala
+    │       └── jsy
+    │           └── lab1
+    │               ├── Lab1.scala        (implementation template for you to **edit and submit**)
+    │               ├── Lab1.worksheet.sc (a scratch worksheet you can use to experiment with your code)
+    │               ├── Parser.scala      (a parser provided for you)
+    │               └── ast.scala         (the AST definition)
+    └── test
+        └── scala
+            └── jsy
+                └── lab1
+                    └── Lab1Spec.scala    (test cases you can use to test your implementation)
+```
 
 ## Building and Testing Instructions
 
