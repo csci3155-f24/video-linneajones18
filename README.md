@@ -31,7 +31,7 @@ We started by integrating Bootstrap into our HTML file, allowing us to use its p
 
 ## Building and Testing Instructions
 
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
+To access the website: open the code folder and open the html page on chrome browser. You can do this by downloading the code folder or by double clicking the html file.
 
 ## Presentation
 
