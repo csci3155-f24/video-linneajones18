@@ -36,5 +36,5 @@ To access the website: open the code folder and open the html page on chrome bro
 ## Presentation
 
 - YouTube: https://youtu.be/l0UmntQUpPE?si=q3QJM3UQfrJPJ3as
-- Script: [Script.pdf](Script.pdf).
-- Recording: [PPL_ExtraCredit.mp4](PPL_ExtraCredit.mp4).
+- Script: [Script.pdf](Deliverables/Script.pdf).
+- Recording: [PPL_ExtraCredit.mp4](Deliverables/PPL_ExtraCredit.mp4).
