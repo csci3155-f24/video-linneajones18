@@ -1,26 +1,40 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/skJdUf3s)
 # Principles of Programming and Programming Languages
 # Mini-Project
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+Creators: Jenna, Abby, Linnea
+
+# Extra Credit Project: Wicked Website Using Bootstrap
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
+Our project focused on creating a visually appealing and interactive webpage inspired by the soundtrack of the upcoming Wicked movie. Using the Bootstrap framework, we designed a site where each song from the soundtrack is displayed as a button. When clicked, these buttons take users directly to the corresponding song on Spotify. The project demonstrated how modern web frameworks like Bootstrap, combined with custom CSS, can be used to implement programming concepts such as "code as data" in a practical and creative way.
+
+We started by integrating Bootstrap into our HTML file, allowing us to use its pre-designed components. Bootstrap’s button classes served as the foundation for the interactive song links, which were further customized using CSS. We created custom styles with CSS variables to dynamically manage the design of the buttons and hover effects across the page. These reusable variables represent the "code as data" principle, allowing changes to propagate consistently throughout the project. Alongside the buttons, we added a glittery, eye-catching header to tie the visual theme to the magical tone of Wicked. Our collaboration on this project not only enhanced our understanding of reusable and dynamic code structures but also demonstrated how Bootstrap's flexibility can be combined with personalized styling to create a functional and beautiful webpage.
+
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
+```
+.
+├── README.md (this file)
+├── deliverables
+    ├── instructions.md
+    ├── Script.pdf
+    ├── PPL_ExtraCredit.mp4
+└── code
+    ├── wicked_Extra_Credit.html
+    ├── wicked_background.webp
+    └──  style.css
+```
 
 ## Building and Testing Instructions
 
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
+To access the website: open the code folder and open the html page on chrome browser. You can do this by downloading the code folder or by double clicking the html file.
 
 ## Presentation
 
-TODO: Update the following links and remove this line.
-
-- YouTube: https://youtu.be/TODO.
-- Script: [script.md](script.md) or [script.pdf](script.pdf).
-- Recording: [recording.mp4](recording.mp4).
-- Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
+- YouTube: https://youtu.be/l0UmntQUpPE?si=q3QJM3UQfrJPJ3as
+- Script: [Script.pdf](Deliverables/Script.pdf).
+- Recording: [PPL_ExtraCredit.mp4](Deliverables/PPL_ExtraCredit.mp4).
