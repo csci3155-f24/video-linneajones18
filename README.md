@@ -4,6 +4,8 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
+Creators: Jenna, Abby, Linnea
+
 # Extra Credit Project: Wicked Website Using Bootstrap
 
 ## Description
@@ -14,26 +16,17 @@ We started by integrating Bootstrap into our HTML file, allowing us to use its p
 
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
-
 ```
 .
 ├── README.md (this file)
-├── inductive-data-types-lab.ipynb        (the lab handout as a Jupyter Notebook)
-└── src
-    ├── main
-    │   └── scala
-    │       └── jsy
-    │           └── lab1
-    │               ├── Lab1.scala        (implementation template for you to **edit and submit**)
-    │               ├── Lab1.worksheet.sc (a scratch worksheet you can use to experiment with your code)
-    │               ├── Parser.scala      (a parser provided for you)
-    │               └── ast.scala         (the AST definition)
-    └── test
-        └── scala
-            └── jsy
-                └── lab1
-                    └── Lab1Spec.scala    (test cases you can use to test your implementation)
+├── deliverables
+    ├── instructions.md
+    ├── Script.pdf
+    ├── PPL_ExtraCredit.mp4
+└── code
+    ├── wicked_Extra_Credit.html
+    ├── wicked_background.webp
+    └──  style.css
 ```
 
 ## Building and Testing Instructions
